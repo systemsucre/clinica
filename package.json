@@ -23,7 +23,6 @@
     "mysql2": "^3.12.0",
     "nodemailer": "^6.10.0",
     "pdfmake": "^0.2.18",
-    "puppeteer": "^24.1.1",
     "socket.io": "^4.8.1",
     "util-tiempo": "^1.0.52"
   },
